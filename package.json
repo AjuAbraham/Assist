@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "nodemon ./core/zia.js"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
